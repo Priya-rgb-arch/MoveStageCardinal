@@ -8,7 +8,7 @@ public class MoveStageCradinal {
 
 	public static void main(String[] args) {
 		try {
-			String scriptPath = "home/sriharipriya/MoveStageCardinal/MoveStageCardinals/src/stageCradinal.sh";
+			String scriptPath = "/home/sriharipriya/MoveStageCardinal/MoveStageCardinals/src/stageCradinal.sh";
 
 			// Create the ProcessBuilder for the shell script
 
