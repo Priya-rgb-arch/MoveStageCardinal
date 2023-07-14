@@ -2,7 +2,7 @@
 
 # Set file and directory paths
 cardinal_cost_file="/home/sriharipriya/MoveStageCardinal/MoveStageCardinals/src/cardinal_cost_file.csv"
-source_directory="/home/sriharipriya/MoveStageCardinal/MoveStageCardinals/src"
+source_directory="/home/sriharipriya/MoveStageCardinal/MoveStageCardinals/src/source_directory"
 
 # Set database connection details
 central_db_host="localhost"
