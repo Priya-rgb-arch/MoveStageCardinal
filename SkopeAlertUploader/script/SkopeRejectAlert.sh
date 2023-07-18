@@ -1,6 +1,6 @@
 #!/bin/bash
 # Set the path to the SKOPE rejects file
-SKOPE_REJECTS_FILE="/home/sriharipriya/skope_rejects.txt"
+SKOPE_REJECTS_FILE="/home/sriharipriya/SkopeAlertUploader/source/skope_rejects.txt"
 # Set the email address to receive alerts
 ALERT_EMAIL="reshmachavan12196@gmail.com"
 # Set the threshold for the number of rejects to trigger an alert
