@@ -5,7 +5,7 @@ public class SkopeRejectAlert {
 	public static void main(String[] args) {
 
 		// provide the path to your shell script
-		String scriptPath = "/home/sriharipriya/SkopeRejectAlert.sh";
+		String scriptPath = "/home/sriharipriya/SkopeAlertUploader/script/SkopeRejectAlert.sh";
 
 		try {
 			ProcessBuilder processBuilder = new ProcessBuilder("/bin/bash", scriptPath);
